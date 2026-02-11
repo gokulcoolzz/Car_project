@@ -1,9 +1,9 @@
 {
-	"name": "DataFactoryGoks",
-	"location": "southeastasia",
+	"name": "***",
+	"location": ""***"",
 	"identity": {
 		"type": "SystemAssigned",
-		"principalId": "e2a94f42-17a4-42c2-8d12-d6c82f13eb2c",
-		"tenantId": "ba551e07-a1a6-4cd8-857a-5041c58fb3ff"
+		"principalId": ""***"",
+		"tenantId": ""***""
 	}
 }
