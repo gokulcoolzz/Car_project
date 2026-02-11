@@ -1,5 +1,5 @@
 {
-	"name": "AzureDatabricks1",
+	"name": "***",
 	"type": "Microsoft.DataFactory/factories/linkedservices",
 	"properties": {
 		"annotations": [],
