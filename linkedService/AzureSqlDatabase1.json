@@ -1,5 +1,5 @@
 {
-	"name": "Azurabase1",
+	"name": "es1",
 	"type": "Microsoft.DataFactory/factories/linkedservices",
 	"properties": {
 		"annotations": [],
