@@ -31,7 +31,7 @@
 					"source": {
 						"type": "AzureSqlSource",
 						"sqlReaderQuery": {
-							"value": "SELECT * FROM source_car_data WHERE Date_ID BETWEEN '@{activity('WaterMark').output.firstRow.last_load}' AND '@{activity('SQLDB').output.firstRow.max_date}'",
+							"value": "SELECT * FROM Row.max_date}'",
 							"type": "Expression"
 						},
 						"queryTimeout": "02:00:00",
